@@ -1,0 +1,19 @@
+{
+  "name": "semantic_release",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evveryaaaa/semantic_release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evveryaaaa/semantic_release/issues"
+  },
+  "homepage": "https://github.com/evveryaaaa/semantic_release#readme"
+}
